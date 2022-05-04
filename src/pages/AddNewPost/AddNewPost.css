@@ -1,0 +1,6 @@
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border: "none";
+}
+label + .css-1irf9e3-MuiInputBase-root-MuiInput-root {
+  margin-left: 15px;
+}

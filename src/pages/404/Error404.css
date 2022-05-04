@@ -1,0 +1,6 @@
+@media only screen and (max-width: 768px) {
+  #imgError {
+    width: 330px;
+    height: 330px;
+  }
+}

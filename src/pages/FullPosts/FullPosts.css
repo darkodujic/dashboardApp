@@ -1,0 +1,21 @@
+:root {
+  --blue: #2f49d1;
+  --white: #fff;
+  --black: #000;
+}
+.css-g2z002-MuiSvgIcon-root-MuiPaginationItem-icon {
+  background-color: var(--blue);
+  padding: 10px 12px;
+  border-radius: 4px;
+  color: var(--white);
+}
+
+.MuiPagination-ul li {
+  margin: 7px;
+}
+
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+}
